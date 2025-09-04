@@ -24,8 +24,8 @@ Below is a summary of the projects included in this portfolio. Each project fold
 *   **Hardware Description Languages:** Verilog
 *   **Simulation & Synthesis Tools (Example):**
     *   Xilinx Vivado
-    *   ModelSim / QuestaSim
-    *   Intel Quartus
+    *   Zybo Z7-10
+    
 
 
 ## Hands-On Hardware Labs (Not Included in Repo)
