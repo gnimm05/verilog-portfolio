@@ -6,7 +6,7 @@ This repository contains a curated collection of labs from my university coursew
 
 ## Projects Overview
 
-Below is a summary of the projects included in this portfolio. Each project folder contains the Verilog source files for that lab. For more detailed explanations, consider adding a dedicated `README.md` inside each lab folder.
+Below is a summary of the projects included in this portfolio. Each project folder contains the Verilog source files for that lab.
 
 | Project                                     | Description                                                                                             | Key Concepts Covered                                  | Folder Link                      |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- |
